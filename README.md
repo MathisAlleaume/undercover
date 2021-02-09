@@ -5,7 +5,6 @@
 ~ npm install
 ~ cd client
 ~ npm install
-
 ```
 
 ## Launch :
@@ -19,4 +18,4 @@
 ~ vue ui
 ```
 
-Got to tasks -> serve -> run task -> open app
+Go to tasks -> serve -> run task -> open app
